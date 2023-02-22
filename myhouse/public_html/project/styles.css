@@ -1,0 +1,46 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+h1, h2 {
+    color: darkblue;
+}
+ul {
+    font-weight: bold;
+    color: green;
+}
+th, td {
+    font-weight: bold;
+    text-align: left;
+}
+.prices-table {
+    color: darkblue;
+}
+.prices-table__row-blue {
+    background-color: #87CEEB;
+}
+.plans-table__headers {
+    background-color: #9370DB;
+}
+.facades-table_headers {
+    background-color: #9370DB;
+}
+.facades-table_headers th {
+    width: 300px;
+}
+table img {
+    margin-top: 25px;
+}
+.navigation {
+    list-style-type: none;
+}
+.navigation a:link {
+    color: green;
+    text-decoration: none;
+}
+.navigation a:hover {
+    color: #EF7D55;
+    text-decoration: underline;
+}
+.navigation a:visited{
+    color: #EF7D55;
+}

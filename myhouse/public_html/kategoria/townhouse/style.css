@@ -1,0 +1,21 @@
+h4{
+	color: darkblue;
+}
+p{
+	color: #0000FF;
+}
+
+.navigation h4:visited
+{
+	color: darkblue;
+	text-decoration: none;
+}
+.navigation h4:link
+{
+	color: darkblue;
+	text-decoration: none;
+}
+.navigation h4:hover
+{
+	color: red;
+}
